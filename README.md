@@ -1,5 +1,5 @@
 - 👋 Hi, I’m amal
-- 👀 I’m interested in programming and design
-- 🌱 I’m currently learning webdevelopment
-- 💞️ I’m looking to collaborate with a team to learn and have fun
+- 👀  interested in programming and design
+- 🌱  currently learning webdevelopment
+- 💞️  looking to collaborate with a team to learn and have fun
 - 📫 reach me by my email "amal.m.faqihi@gmail.com"
